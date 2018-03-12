@@ -9,4 +9,8 @@
     <string name="title_zamestnanci_detail">Zamestnanci Detail</string>
     <string name="title_projekty_list">Projekty</string>
     <string name="title_projekty_detail">Projekty Detail</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_title">Add Constant</string>
+    <string name="delete_title">Delete Constant: Are You Sure?</string>
 </resources>
